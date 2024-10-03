@@ -41,7 +41,7 @@ This project analyzes the results of the **2014** and **2019** Indian general el
 
 ## Data Sources:
 
-- ![2014 & 2019 Indian Election Results](Dataset)
+- [2014 & 2019 Indian Election Results](Dataset)
 
 
 
